@@ -4995,31 +4995,3 @@
 "classname" "item_shells"
 "origin" "2272 -1296 192"
 }
-// entity 12
-{
-"classname" "weapon_grenadelauncher"
-"origin" "1216 -1280 0"
-"angle" "90"
-}
-// entity 13
-{
-"classname" "item_armor2"
-"origin" "1216 -96 -96"
-"angle" "270"
-}
-// entity 14
-{
-"classname" "item_shells"
-"origin" "144 -1296 192"
-}
-// entity 15
-{
-"classname" "item_health"
-"origin" "464 -1296 0"
-}
-// entity 16
-{
-"classname" "item_armor2"
-"origin" "1216 -2464 -96"
-"angle" "90"
-}
